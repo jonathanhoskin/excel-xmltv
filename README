@@ -4,7 +4,7 @@ Given the schema followed, this will only ever really work with the spreadsheets
 
 The hope of this project is to provide a simple script to do one-line conversion. e.g;
 
-ruby excel-xmltv.rb triangle.xls
+ruby excel-xmltv.rb triangle.xls > triangle.xml
 
 
 See also:
