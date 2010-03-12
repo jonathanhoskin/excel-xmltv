@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'spreadsheet'
+#require 'spreadsheet'
 require 'roo'
 require 'parsedate'
 require 'builder'
